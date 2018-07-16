@@ -1,0 +1,116 @@
+body{
+	background-color:#003740;
+} 
+
+nav .container-fluid{
+	background-color:#003740;
+	margin: 0;
+}
+
+nav li{
+	padding: 20px;
+}
+nav a{
+	text-decoration: none;
+	color: #D3D3D3;
+	font-size: 18px;
+	font-family: sans-serif; 
+}
+
+nav img{ 
+	margin-top: 20px;
+	margin-right: 350px;
+	height: 50px;
+}
+
+#propos{
+	padding: 80px;
+}
+#propos p{
+	width: 300px;
+}
+
+#p1, #p2, #p3{ 
+	border-left: solid #90371F 2px;
+	display: none;
+	margin-top: 10px;
+	color: white;  
+}
+
+#img1, #img2, #img3{ 
+	width: 300px;
+	height: 200px;
+}
+
+#section1,#section2,#section3{
+	padding: 15px;
+}
+
+video{
+	width: 100%;
+}
+
+#design{
+	opacity: 0.01;
+	background-color: #1F9071;
+	margin-top:30px;
+	position: relative;
+    left: -500px;  
+}
+#marketing{
+	opacity: 0.01;
+	background-color: #1F9071;
+	margin-top:30px;
+	position: relative;
+    right: -500px;   
+}
+ 
+#dev{
+	opacity: 0.01;
+	background-color: #1F9071;
+	margin-top:30px;
+	position: relative;
+    left: -500px;  
+} 
+#services h2{
+	color:white;
+	font-family: arial;
+}
+
+
+#portfolio{
+	padding:70px;
+}
+#portfolio img{
+	height: 400px;
+	width: 600px;
+}
+
+#portfolio p, #portfolio h2{
+	color: #D3D3D3;
+}
+
+#pi2,#pi1,#pi3,#pi4{
+	display: none;
+}
+
+#portfolio img{
+	width: 530px;
+	margin:20px;
+}
+
+#contact h2{
+	color: #D3D3D3;
+}
+
+#contacts img{
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+	margin: 10px;
+	margin-left: 50px;
+}
+#contacts{
+	display: none;
+	margin-bottom: 50px;
+}
